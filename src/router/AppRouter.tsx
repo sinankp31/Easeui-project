@@ -63,7 +63,9 @@ const AppRouter = ({}: Props) => {
         },
       ],
     },
-  ]);
+  ],{
+    basename: "/Easeui-project"
+  });
 
   return <RouterProvider router={router} />;
 };
