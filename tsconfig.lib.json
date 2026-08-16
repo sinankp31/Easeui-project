@@ -7,7 +7,7 @@
       "noEmit": false,
       "declarationMap": true,
       "stripInternal": true,
-      "skipLibCheck": true
+      "skipLibCheck": true,
     },
     "include": ["src"]
   }
