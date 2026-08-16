@@ -1,9 +1,12 @@
 @import "tailwindcss";
+
 :root {
   --bg-color: #ffffff;
   --text-color: #000000;
   --primary-color: #2563eb;
-  /* --card-bg: #f3f4f6; */
+  --card-bg: #f9fafb;
+  --border-color: #e5e7eb;
+  --muted-text: #6b7280;
 }
 
 [data-theme="dark"] {
@@ -11,6 +14,8 @@
   --text-color: #f4f4f5;
   --primary-color: #3b82f6;
   --card-bg: #27272a;
+  --border-color: #3f3f46;
+  --muted-text: #a1a1aa;
 }
 
 body {

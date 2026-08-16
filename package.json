@@ -28,6 +28,7 @@
     "react-dom": ">=18"
   },
   "dependencies": {
+    "@floating-ui/react": "^0.27.20",
     "@radix-ui/react-slot": "^1.2.3",
     "@reduxjs/toolkit": "^2.9.2",
     "@tailwindcss/vite": "^4.1.16",
